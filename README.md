@@ -1,21 +1,19 @@
 # HubertECGClassifier
 
 # Dataset 
-  training dataset
+  Training Dataset
 
-  test dataset
+  Test Dataset
 
-  validation dataset 
+  Validation Dataset 
 
 # Model Architecture 
 
 
-# training
-
+# Model Training
 
 
 # Model Evaluation
-
 
 # Model Deployment
   
